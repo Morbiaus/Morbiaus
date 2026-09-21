@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/226425100?v=4" width="170" alt="Juan A. Martinez Diaz" />
+  <img src="assets/juan-a-martinez-diaz-headshot.jpg" width="140" alt="Juan A. Martinez Diaz" />
 </p>
 
 <h1 align="center">Juan A. Martinez Diaz, MBA</h1>
