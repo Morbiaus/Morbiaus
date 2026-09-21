@@ -6,7 +6,7 @@ I build practical governance mechanisms for AI systems that **act**, not just re
 
 ## Featured build — Sentinel Governed Workflow Twin
 
-**[Open the live governance demo](https://morbiaus.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/Morbiaus/sentinel-governed-workflow-twin)** · **17 automated governance tests**
+**[Open the live governance demo](https://morbiaus.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/Morbiaus/sentinel-governed-workflow-twin)** · **18 automated governance tests**
 
 ![Sentinel Decision X-Ray](https://raw.githubusercontent.com/Morbiaus/sentinel-governed-workflow-twin/main/docs/assets/decision-xray2-live.png)
 
