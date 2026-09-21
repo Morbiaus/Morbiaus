@@ -14,9 +14,9 @@ I work at the intersection of **AI governance, enterprise risk, and agentic work
 
 ## Featured build — Sentinel Governed Workflow Twin
 
-**[Open the live governance demo](https://morbiaus.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/Morbiaus/sentinel-governed-workflow-twin)** · **18 automated governance tests**
+**[Open the live governance demo](https://juanamartinezdiaz.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/JuanAMartinezDiaz/sentinel-governed-workflow-twin)** · **18 automated governance tests**
 
-![Sentinel Decision X-Ray](https://raw.githubusercontent.com/Morbiaus/sentinel-governed-workflow-twin/main/docs/assets/decision-xray2-live.png)
+![Sentinel Decision X-Ray](https://raw.githubusercontent.com/JuanAMartinezDiaz/sentinel-governed-workflow-twin/main/docs/assets/decision-xray2-live.png)
 
 The public reference implementation demonstrates authority registration, deterministic decision arbitration, human approval gates, signed execution permits, fail-closed protected execution, structured evidence, and a synthetic 17-step workflow twin.
 
@@ -44,10 +44,10 @@ Applied AI projects built mission-by-mission to test ideas in agentic systems, w
 
 | Project | What it demonstrates |
 |---|---|
-| [Sentinel Governed Workflow Twin](https://github.com/Morbiaus/sentinel-governed-workflow-twin) | Governed agentic execution, authority arbitration, protected actions, evidence generation, workflow metrics, and synthetic enterprise examples |
-| [JuanMartinez.ai](https://github.com/Morbiaus/juanmartinez-ai-site) | Executive AI-governance publishing, Decision X-Ray, AI Build Lab, and interactive studies |
-| [Career Rebuild Navigator](https://github.com/Morbiaus/career-rebuild-navigator-vercel) | Multi-stage AI-assisted workflow design with quality gates and human review |
-| [GuidedWork AI](https://github.com/Morbiaus/guidedwork-ai-beta) | Human-centered workflow assistance and applied AI product experimentation |
+| [Sentinel Governed Workflow Twin](https://github.com/JuanAMartinezDiaz/sentinel-governed-workflow-twin) | Governed agentic execution, authority arbitration, protected actions, evidence generation, workflow metrics, and synthetic enterprise examples |
+| [JuanMartinez.ai](https://github.com/JuanAMartinezDiaz/juanmartinez-ai-site) | Executive AI-governance publishing, Decision X-Ray, AI Build Lab, and interactive studies |
+| [Career Rebuild Navigator](https://github.com/JuanAMartinezDiaz/career-rebuild-navigator-vercel) | Multi-stage AI-assisted workflow design with quality gates and human review |
+| [GuidedWork AI](https://github.com/JuanAMartinezDiaz/guidedwork-ai-beta) | Human-centered workflow assistance and applied AI product experimentation |
 
 ## Principles I build around
 
