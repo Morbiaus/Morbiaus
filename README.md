@@ -4,6 +4,14 @@
 
 I build practical governance mechanisms for AI systems that **act**, not just recommend. My current work focuses on the point where agent capability meets enterprise authority: who or what may act, under which conditions, through which tools, with what approval, and with what evidence afterward.
 
+## Featured build — Sentinel Governed Workflow Twin
+
+**[Open the live governance demo](https://morbiaus.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/Morbiaus/sentinel-governed-workflow-twin)** · **15 automated governance tests**
+
+![Sentinel Decision X-Ray](https://raw.githubusercontent.com/Morbiaus/sentinel-governed-workflow-twin/main/docs/assets/decision-xray-poster.png)
+
+The public reference implementation demonstrates authority registration, deterministic decision arbitration, human approval gates, signed execution permits, fail-closed protected execution, structured evidence, and a synthetic 17-step workflow twin.
+
 ## Current work
 
 ### Project Sentinel
