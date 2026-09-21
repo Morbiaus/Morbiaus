@@ -6,9 +6,9 @@ I build practical governance mechanisms for AI systems that **act**, not just re
 
 ## Featured build — Sentinel Governed Workflow Twin
 
-**[Open the live governance demo](https://morbiaus.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/Morbiaus/sentinel-governed-workflow-twin)** · **16 automated governance tests**
+**[Open the live governance demo](https://morbiaus.github.io/sentinel-governed-workflow-twin/)** · **[Inspect the source](https://github.com/Morbiaus/sentinel-governed-workflow-twin)** · **17 automated governance tests**
 
-![Sentinel Decision X-Ray](https://raw.githubusercontent.com/Morbiaus/sentinel-governed-workflow-twin/main/docs/assets/decision-xray-poster.png)
+![Sentinel Decision X-Ray](https://raw.githubusercontent.com/Morbiaus/sentinel-governed-workflow-twin/main/docs/assets/decision-xray2-live.png)
 
 The public reference implementation demonstrates authority registration, deterministic decision arbitration, human approval gates, signed execution permits, fail-closed protected execution, structured evidence, and a synthetic 17-step workflow twin.
 
@@ -26,8 +26,8 @@ A governed workflow-intelligence platform focused on discovering how work is act
 - Structured decision evidence and auditability
 - Operational measurement: cycle time, cost, quality, risk, human intervention, and control effectiveness
 
-### Decision X-Ray
-An interactive way to inspect a consequential AI decision: proposal, authority boundary, control checks, approval state, disposition, and evidence trail.
+### Decision X-Ray 2.0
+A live 3D governance chamber for inspecting a consequential AI decision in motion: proposal, authorization gate, human authority, execution permit, protected action, and evidence trail.
 
 ### AI Build Lab
 Applied AI projects built mission-by-mission to test ideas in agentic systems, workflow automation, governance, visualization, and local-model experimentation.
