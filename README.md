@@ -1,8 +1,16 @@
-# Juan A. Martinez Diaz, MBA
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/226425100?v=4" width="170" alt="Juan A. Martinez Diaz" />
+</p>
 
-### AI Governance • Agentic Systems • Workflow Intelligence • Operational Risk
+<h1 align="center">Juan A. Martinez Diaz, MBA</h1>
 
-I build practical governance mechanisms for AI systems that **act**, not just recommend. My current work focuses on the point where agent capability meets enterprise authority: who or what may act, under which conditions, through which tools, with what approval, and with what evidence afterward.
+<p align="center"><strong>AI Governance • Agentic Systems • Workflow Intelligence • Operational Risk</strong></p>
+
+<p align="center">
+  Building practical governance for AI systems that can act — with explicit authority, enforceable boundaries, measurable outcomes, and auditable evidence.
+</p>
+
+I work at the intersection of **AI governance, enterprise risk, and agentic workflow engineering**. My focus is the control problem created when AI moves from generating recommendations to taking consequential action: who or what may act, under which conditions, through which tools, with whose approval, and with what evidence afterward.
 
 ## Featured build — Sentinel Governed Workflow Twin
 
@@ -50,7 +58,7 @@ Applied AI projects built mission-by-mission to test ideas in agentic systems, w
 - AI adoption should improve measurable workflow outcomes—not merely add AI to an existing process.
 - Public examples should be synthetic and reproducible; employer and client data do not belong in an open repository.
 
-## Professional context
+## Professional background
 
 - Independent AI Governance & Workflow Modernization
 - Former Vice President, Second Line of Defense Technology & Information Security Risk, Wells Fargo
